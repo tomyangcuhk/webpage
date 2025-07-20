@@ -1,0 +1,171 @@
+
+
+
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+
+<title>Research</title>
+<link href="trs-style-iWeblike.css" rel="stylesheet" type="text/css" />
+</head>
+
+
+<body>
+
+<div id="navigation">
+<table>
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="CV.html">CV</a></td>
+<td><a href="research.html">Research</a></td>
+<td><a href="teaching.html">Teaching</a></td>
+<td><a href="other.html">Other</a></td>
+</tr>
+</table>
+
+
+<div class="hr"> <hr /> </div>
+
+
+
+
+</div>   <! End of navigation div -->
+
+<div id="name">
+My Research Topics
+</div>
+
+<div id="main">
+
+I am interested in harmonic analysis and geometric measure theory. I am currently working on the following topics:<br>
+<br><ol>
+
+<br><li>
+Decoupling theory for various geometric objects in the Euclidean space.
+</li>
+
+
+
+<br><li>
+Maximal operators and local smoothing estimates.
+</li>
+
+</ol>
+
+
+
+<br><br>Here are some of the academic articles I have written:<br/><br>
+
+
+
+<b>Preprint/Publications:</b>
+<br>
+<ol>
+
+<li>Construction of a curved Kakeya set, 
+with Yue Zhong, (2024), <td>
+<a href=https://arxiv.org/abs/2408.01917
+><hyperlink> Link  </hyperlink></a></td> <td>
+</li><br>
+
+<li>Two principles of decoupling, 
+with Jianhui Li, (2024), <td>
+<a href=https://arxiv.org/abs/2407.16108
+><hyperlink> Link  </hyperlink></a></td> <td>
+</li><br>
+
+
+<li>A multi-parameter cinematic curvature, 
+with Mingfeng Chen and Shaoming Guo, (2023), <td>
+<a href=https://arxiv.org/abs/2306.01606
+><hyperlink> Link  </hyperlink></a></td> <td>
+</li><br>
+
+<li>A Furstenberg-type problem for circles, and a Kaufman-type restricted projection theorem in $\mathbb R^3$, 
+with Malabika Pramanik and Joshua Zahl, (2022), <td>
+<a href=https://arxiv.org/abs/2207.02259
+><hyperlink> Link  </hyperlink></a></td> <td>
+</li><br>
+
+<li>Decoupling for smooth surfaces in $\mathbb R^3$, with Jianhui Li (2021), to appear in <i>American Journal of Mathematics</i>: <td>
+<a href=https://arxiv.org/abs/2110.08441><hyperlink> Link  </hyperlink></a></td> <td>
+</li><br>
+
+<li>Decoupling for mixed-homogeneous polynomials in $\mathbb R^3$, with Jianhui Li, <i>Mathematische Annalen</i>, (2021): <td>
+<a href=https://arxiv.org/abs/2104.00128><hyperlink> Link  </hyperlink></a></td>
+</li><br>
+
+
+<li>Uniform $l^2$ decouping in $\mathbb R^2$ for polynomials, <i>Journal of Geometric Analysis</i>, (2021)
+: <td><a href=https://arxiv.org/abs/2006.03135><hyperlink> Link  </hyperlink></a></td>
+</li><br>
+
+<li>On sets containing an affine copy of bounded decreasing sequences, <i>Journal of Fourier Analysis and Applications</i>, (2020)
+: <td><a href=https://arxiv.org/abs/1901.06429><hyperlink> Link  </hyperlink></a></td>
+</li><br>
+
+
+
+
+
+</ol>
+
+
+<b>Theses:</b>
+<br>
+<ol>
+
+<li><i>Kakeya and restriction problems in harmonic analysis</i> (my master thesis, 2017): 
+<td><a href=MPhil_Thesis.pdf><hyperlink> Link </hyperlink></a></td>
+</li><br>
+
+
+<li><i>Configurations and decoupling: a few problems in Euclidean harmonic analysis</i> (my PhD thesis, 2021): 
+<td><a href=PhD_Thesis.pdf><hyperlink> Link </hyperlink></a></td>
+</li><br>
+
+
+</ol>
+
+
+
+<br>
+<b>Notes/Slides:</b>
+<ol>
+
+<li>Study guide for "On restriction projections to planes in $\mathbb R^3$", 
+with Tainara Borges and Siddharth Mulherkar, (2024), <td>
+<a href=https://arxiv.org/abs/2403.17989
+><hyperlink> Link  </hyperlink></a></td> <td>
+</li><br>
+
+<li>
+<i>A Study Guide for</i> A Study Guide for the l^2 decoupling Theorem by Bourgain and Demeter (2016)
+(<td><a href=https://link.springer.com/article/10.1007/s11401-016-1066-1><hyperlink>Link to [Bourgain-Demeter]</hyperlink></a></td>)
+and
+(<td><a href=Decoupling.pdf><hyperlink>Link to my note</hyperlink></a></td>)
+</li>
+
+<li>
+<i>A few remarks on decoupling
+(<td><a href=Remarks_decoupling.pdf><hyperlink>Link</hyperlink></a></td>)
+</li>
+
+<li>
+<i>Equivalence of decoupling constants
+(<td><a href=Equivalence_of_decoupling.pdf><hyperlink>Link</hyperlink></a></td>)
+</li>
+
+</ol>
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+

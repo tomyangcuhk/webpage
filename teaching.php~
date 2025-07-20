@@ -1,0 +1,109 @@
+
+
+
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+
+<title>Teaching</title>
+<link href="trs-style-iWeblike.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+
+<body>
+
+<div id="navigation">
+<table>
+<tr>
+<td><a href="index.php">Home</a></td>
+<td><a href="CV.php">CV</a></td>
+<td><a href="research.php">Research</a></td>
+<td><a href="teaching.php">Teaching</a></td>
+<td><a href="other.php">Other</a></td>
+</tr>
+</table>
+
+
+<div class="hr"> <hr /> </div>
+
+
+
+
+</div>   <! End of navigation div -->
+
+<div id="name">
+My Teaching Page
+</div>
+
+<div id="main">
+
+I am teaching MATH 132 (Complex Analysis for Applications) at UCLA.
+
+<br/><br>Below are my previous notable teaching experiences:<br/><br>
+<ol>
+
+<li>
+Instructor for MATH 551 (Elementary Topology) at UW-Madison, 2022-23 Term 2
+</li>
+<br>
+
+<li>
+Instructor for MATH 521 (Analysis I) at UW-Madison, 2022-23 Term 1
+</li>
+<br>
+
+
+<li>
+Instructor for MATH 300 (Introduction to Complex Variables) at UBC, 2021-22 Term 2
+</li>
+<br>
+
+<li>
+Small class instructor for MATH 104 (Differential Calculus with Applications to Commerce and Social Sciences) at UBC, 2021-22 Term 1
+</li>
+<br>
+
+<li>
+Instructor for MATH 105 (Integral Calculus with Applications to Commerce and Social Sciences) at UBC, 2018-19 Term 2 
+</li>
+<br>
+<li>
+Recitation Instructor for MATH 180 (Differential Calculus with Physical Applications) at UBC, 2018-19 Term 1 
+</li>
+<br>
+<li>
+
+Small class Instructor for MATH 2060 (Mathematical Analysis II) at CUHK, 2016-17 Term 2 
+</li>
+<br>
+<li>
+Small class Instructor for MATH 2050 (Mathematical Analysis I) at CUHK, 2016-17 Term 1 
+</li>
+
+<br>
+
+
+I have also run some workshops and taught a few short courses.
+
+<br>
+
+Lecture Notes on Fractals for <i>Diversity in Mathematics, 2019</i>
+ 
+ <br>
+<a href="Lecture1.pdf"><hyperlink>Lecture1</hyperlink></a>
+
+<a href="Lecture2.pdf"><hyperlink>Lecture2</hyperlink></a>
+
+<a href="Lecture3.pdf"><hyperlink>Lecture3</hyperlink></a>
+
+<a href="Joint.pdf"><hyperlink>Joint</hyperlink></a>
+
+
+
+
+
+</body>
+</html>
+
+
